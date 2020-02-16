@@ -37,3 +37,22 @@ body{
     color: #fff;
     
 }
+
+#section1{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+#imgNode{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    
+}
+#imgNcontainer{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    
+}
