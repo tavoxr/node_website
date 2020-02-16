@@ -1,0 +1,39 @@
+body{
+    font-family: 'Bangers', cursive; 
+    
+     /* background: #6A9113;  
+    background: -webkit-linear-gradient(to left, #141517, #6A9113); 
+    background: linear-gradient(to left, #141517,rgb(54, 71, 17),rgb(74, 97, 24),rgb(87, 119, 23),rgb(94, 129, 17),rgb(100, 138, 18),rgb(105, 139, 30),rgb(120, 151, 52)); 
+     */
+     background: linear-gradient(to right,rgb(67, 97, 145),rgb(57, 91, 146),rgb(51, 86, 143),rgb(34, 72, 134)); 
+     /* background: rgb(51, 86, 143); */
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+}
+
+#titleBar{
+    font-size: 1.5rem;
+    /* font-family: 'Permanent Marker', cursive;
+    
+    font-family: 'Audiowide', cursive;*/
+}
+#navbarNav{
+    font-size: 1.5rem;
+}
+
+#aboutP{
+    font-size: 1.1rem;
+}
+
+#footerP{
+    font-size: 0.7rem;
+   
+    font-family:   Helvetica, sans-serif;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    background: rgb(29, 28, 28);
+    color: #fff;
+    
+}
